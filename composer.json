@@ -1,0 +1,9 @@
+{
+    "name": "cabox/workspace",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.0"
+    }
+}
